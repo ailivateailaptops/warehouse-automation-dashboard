@@ -1,0 +1,6 @@
+PPS_ID,OperatorName,Shift,TotalUnitsPicked,TotalHours,UPH
+PPS_1,Operator_1,Day,1215,98.81,12.3
+PPS_2,Operator_2,Day,1409,70.0,20.13
+PPS_3,Operator_4,Day,2522,105.8,23.84
+PPS_4,Operator_2,Day,1493,117.31,12.73
+PPS_5,Operator_5,Day,1857,84.98,21.85
